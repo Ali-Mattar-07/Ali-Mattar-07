@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ali-Mattar-07
+- Hi I'm Ali.
 - 👀 I’m interested in Modern Programming
 - 🌱 I’m currently learning Modern Programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I'm interested in Ethical Hacking too.
 
 <!---
 Ali-Mattar-07/Ali-Mattar-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
