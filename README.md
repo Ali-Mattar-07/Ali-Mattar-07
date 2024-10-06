@@ -1,5 +1,5 @@
 - Hi I'm Ali
-- I’m interested in C, SQL, Assembly and Java
+- I can code with C,SQL,Java,html and Assembly (STM-Arduino)
 - I’m currently learning Software Engineering
 - I'm interested in Cyber Security, Maths and Physics too
 
